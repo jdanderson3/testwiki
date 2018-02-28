@@ -5,3 +5,19 @@
 this is a test
 
 this is a [link](target.md)
+
+Code test:
+```C++
+int main(void) {
+	return 0;
+}
+```
+
+List:
+  * item1
+  * item2
+  * item3
+
+Numbered List:
+  1. item1
+  2. item2
