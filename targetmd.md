@@ -1,5 +1,5 @@
-<!-- TITLE: Targetmd -->
-<!-- SUBTITLE: A quick summary of Targetmd -->
+<!-- TITLE: Target -->
+<!-- SUBTITLE: A quick summary of Target -->
 
 # Header
 
