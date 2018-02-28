@@ -5,6 +5,7 @@
 this is a test
 
 this is a [link](target.md)
+a link to [sub-folder](folder/sub.md)
 
 Code test:
 ```C++
