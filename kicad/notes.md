@@ -1,7 +1,7 @@
 <!-- TITLE: KiCAD Notes -->
 <!-- SUBTITLE: Notes on getting started and best practices with KiCAD -->
 
-![Screenshot From 2018 02 27 11 12 14](/uploads/screenshot-from-2018-02-27-11-12-14.png "Screenshot From 2018 02 27 11 12 14")# External Documentation
+# External Documentation
 Good documentation already exists on the internet. Read the following before continuing to the rest of this document.
 
 Getting Started in KiCad - The official KiCad beginners tutorial. Goes over installing KiCad, designing schematics, adding new components, laying out a PCB and adding new footprints.
