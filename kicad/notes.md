@@ -64,4 +64,7 @@ The submodule is treated as its own git repository. You can run git add/rm/commi
 Cloning a KiCad Project with submodules
 By default, git does not clone any of the submodules. You need to tell it to do so with the --recurse-submodules option. For example,
 
+
+```bash
 git clone --recurse-submodules git@github.com:kkrizka/powerboard_mass_test_adapter_active.git
+```
